@@ -1,0 +1,51 @@
+{
+    "accepted_locations": [
+        "bangalore",
+        "bengaluru",
+        "hybrid bangalore",
+        "hybrid bengaluru",
+        "karnataka",
+        "india",
+        "remote"
+    ],
+    "accepted_roles": [
+        "software engineer",
+        "software developer",
+        "software development engineer",
+        "sde",
+        "backend engineer",
+        "backend software engineer",
+        "associate software engineer",
+        "graduate software engineer",
+        "python engineer",
+        "systems engineer",
+        "platform engineer",
+        "machine learning engineer",
+        "ai engineer",
+        "applied ai engineer",
+        "ai research engineer",
+        "research engineer",
+        "ai/ml engineer",
+        "ml engineer",
+        "data scientist",
+        "data science associate",
+        "ml scientist",
+        "computer vision engineer",
+        "nlp engineer",
+        "genai engineer",
+        "llm engineer",
+        "deep learning engineer",
+        "data engineer"
+    ],
+    "accepted_experience": [
+        "fresher",
+        "entry level",
+        "graduate program",
+        "university graduate",
+        "new grad",
+        "0-1",
+        "0-2",
+        "1 year",
+        "1 yr"
+    ]
+}

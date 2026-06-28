@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Amazon",
+        "career_url": "https://www.amazon.jobs/en/locations/bangalore-india",
+        "ats": "workday",
+        "ats_url": "amazon",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Big Tech"
+    },
+    {
+        "name": "NVIDIA",
+        "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+        "ats": "workday",
+        "ats_url": "nvidia",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Intel",
+        "career_url": "https://jobs.intel.com/",
+        "ats": "workday",
+        "ats_url": "intel",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Oracle",
+        "career_url": "https://careers.oracle.com/jobs",
+        "ats": "workday",
+        "ats_url": "oracle",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Adobe",
+        "career_url": "https://careers.adobe.com/us/en",
+        "ats": "workday",
+        "ats_url": "adobe",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Dell",
+        "career_url": "https://jobs.dell.com/",
+        "ats": "workday",
+        "ats_url": "dell",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Qualcomm",
+        "career_url": "https://careers.qualcomm.com/careers",
+        "ats": "workday",
+        "ats_url": "qualcomm",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Texas Instruments",
+        "career_url": "https://careers.ti.com/",
+        "ats": "workday",
+        "ats_url": "ti",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Micron",
+        "career_url": "https://careers.micron.com/",
+        "ats": "workday",
+        "ats_url": "micron",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Marvell",
+        "career_url": "https://www.marvell.com/company/careers.html",
+        "ats": "workday",
+        "ats_url": "marvell",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "MediaTek",
+        "career_url": "https://careers.mediatek.com/",
+        "ats": "workday",
+        "ats_url": "mediatek",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "ARM",
+        "career_url": "https://careers.arm.com/",
+        "ats": "workday",
+        "ats_url": "arm",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Cadence",
+        "career_url": "https://careers.cadence.com/",
+        "ats": "workday",
+        "ats_url": "cadence",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Applied Materials",
+        "career_url": "https://careers.appliedmaterials.com/",
+        "ats": "workday",
+        "ats_url": "appliedmaterials",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Lam Research",
+        "career_url": "https://careers.lamresearch.com/",
+        "ats": "workday",
+        "ats_url": "lamresearch",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "KLA",
+        "career_url": "https://careers.kla.com/",
+        "ats": "workday",
+        "ats_url": "kla",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "NXP",
+        "career_url": "https://careers.nxp.com/",
+        "ats": "workday",
+        "ats_url": "nxp",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Infineon",
+        "career_url": "https://careers.infineon.com/",
+        "ats": "workday",
+        "ats_url": "infineon",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Western Digital",
+        "career_url": "https://careers.westerndigital.com/",
+        "ats": "workday",
+        "ats_url": "westerndigital",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Seagate",
+        "career_url": "https://careers.seagate.com/",
+        "ats": "workday",
+        "ats_url": "seagate",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Analog Devices",
+        "career_url": "https://careers.analog.com/",
+        "ats": "workday",
+        "ats_url": "analog",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    }
+]

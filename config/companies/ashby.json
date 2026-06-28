@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Perplexity",
+        "career_url": "https://www.perplexity.ai/careers",
+        "ats": "ashby",
+        "ats_url": "perplexity",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Mistral AI",
+        "career_url": "https://mistral.ai/careers/",
+        "ats": "ashby",
+        "ats_url": "mistral",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Together AI",
+        "career_url": "https://www.together.ai/careers",
+        "ats": "ashby",
+        "ats_url": "together",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Notion",
+        "career_url": "https://www.notion.so/careers",
+        "ats": "ashby",
+        "ats_url": "notion",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Linear",
+        "career_url": "https://linear.app/careers",
+        "ats": "ashby",
+        "ats_url": "linear",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "RunPod",
+        "career_url": "https://www.runpod.io/careers",
+        "ats": "ashby",
+        "ats_url": "runpod",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Fireworks AI",
+        "career_url": "https://fireworks.ai/careers",
+        "ats": "ashby",
+        "ats_url": "fireworks",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "OctoAI",
+        "career_url": "https://octo.ai/company/careers/",
+        "ats": "ashby",
+        "ats_url": "octoai",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Anyscale",
+        "career_url": "https://www.anyscale.com/careers",
+        "ats": "ashby",
+        "ats_url": "anyscale",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "LangChain",
+        "career_url": "https://www.langchain.com/careers",
+        "ats": "ashby",
+        "ats_url": "langchain",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Poolside AI",
+        "career_url": "https://poolside.ai/careers",
+        "ats": "ashby",
+        "ats_url": "poolside",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Magic AI",
+        "career_url": "https://magic.dev/careers",
+        "ats": "ashby",
+        "ats_url": "magic",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Cognition AI",
+        "career_url": "https://www.cognition-labs.com/careers",
+        "ats": "ashby",
+        "ats_url": "cognition",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "xAI",
+        "career_url": "https://x.ai/careers",
+        "ats": "ashby",
+        "ats_url": "xai",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Railway",
+        "career_url": "https://railway.app/careers",
+        "ats": "ashby",
+        "ats_url": "railway",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bosch",
+        "career_url": "https://careers.smartrecruiters.com/BoschGroup",
+        "ats": "smartrecruiters",
+        "ats_url": "BoschGroup",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Philips",
+        "career_url": "https://careers.smartrecruiters.com/Philips",
+        "ats": "smartrecruiters",
+        "ats_url": "Philips",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Capgemini",
+        "career_url": "https://careers.smartrecruiters.com/Capgemini",
+        "ats": "smartrecruiters",
+        "ats_url": "Capgemini",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consulting"
+    },
+    {
+        "name": "Schneider Electric",
+        "career_url": "https://careers.smartrecruiters.com/SchneiderElectric",
+        "ats": "smartrecruiters",
+        "ats_url": "SchneiderElectric",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    }
+]

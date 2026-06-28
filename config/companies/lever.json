@@ -1,0 +1,582 @@
+[
+    {
+        "name": "Stripe",
+        "career_url": "https://stripe.com/jobs",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/stripe",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Plaid",
+        "career_url": "https://plaid.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/plaid",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Rippling",
+        "career_url": "https://www.rippling.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/rippling",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Brex",
+        "career_url": "https://www.brex.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/brex",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Monday.com",
+        "career_url": "https://monday.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/monday",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "ClickUp",
+        "career_url": "https://clickup.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/clickup",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Postman",
+        "career_url": "https://www.postman.com/company/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/postman",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "BrowserStack",
+        "career_url": "https://www.browserstack.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/browserstack",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Miro",
+        "career_url": "https://miro.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/miro",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Zapier",
+        "career_url": "https://zapier.com/jobs",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/zapier",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "HashiCorp",
+        "career_url": "https://www.hashicorp.com/jobs",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/hashicorp",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Snyk",
+        "career_url": "https://snyk.io/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/snyk",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Intercom",
+        "career_url": "https://www.intercom.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/intercom",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "ClearTax",
+        "career_url": "https://cleartax.in/s/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/cleartax",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Palo Alto Networks",
+        "career_url": "https://jobs.paloaltonetworks.com/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/paloaltonetworks",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "HubSpot",
+        "career_url": "https://www.hubspot.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/hubspot",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "AssemblyAI",
+        "career_url": "https://www.assemblyai.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/assemblyai",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "ElevenLabs",
+        "career_url": "https://elevenlabs.io/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/elevenlabs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Sierra",
+        "career_url": "https://sierra.ai/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/sierra",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Abridge",
+        "career_url": "https://www.abridge.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/abridge",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Runway",
+        "career_url": "https://runwayml.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/runway",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "AI21 Labs",
+        "career_url": "https://www.ai21.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/ai21",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Snorkel AI",
+        "career_url": "https://snorkel.ai/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/snorkel",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Labelbox",
+        "career_url": "https://labelbox.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/labelbox",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Predibase",
+        "career_url": "https://predibase.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/predibase",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Aporia",
+        "career_url": "https://www.aporia.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/aporia",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Voyage AI",
+        "career_url": "https://www.voyageai.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/voyageai",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Fly.io",
+        "career_url": "https://fly.io/jobs",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/fly",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Sentry",
+        "career_url": "https://sentry.io/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/sentry",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "SentinelOne",
+        "career_url": "https://www.sentinelone.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/sentinelone",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Arctic Wolf",
+        "career_url": "https://arcticwolf.com/company/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/arcticwolf",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Abnormal Security",
+        "career_url": "https://abnormalsecurity.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/abnormalsecurity",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Wiz",
+        "career_url": "https://www.wiz.io/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/wiz",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Gusto",
+        "career_url": "https://gusto.com/about/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/gusto",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Deel",
+        "career_url": "https://www.deel.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/deel",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Oyster",
+        "career_url": "https://www.oysterhr.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/oyster",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Papaya Global",
+        "career_url": "https://papayaglobal.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/papayaglobal",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Lattice",
+        "career_url": "https://lattice.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/lattice",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Culture Amp",
+        "career_url": "https://www.cultureamp.com/about/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/cultureamp",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "15Five",
+        "career_url": "https://www.15five.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/15five",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "ChartHop",
+        "career_url": "https://www.charthop.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/charthop",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Sequoia Consulting",
+        "career_url": "https://www.sequoia.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/sequoia",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Navan",
+        "career_url": "https://navan.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/navan",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Divvy",
+        "career_url": "https://getdivvy.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/divvy",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Square",
+        "career_url": "https://squareup.com/us/en/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/square",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Robinhood",
+        "career_url": "https://careers.robinhood.com/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/robinhood",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Wealthfront",
+        "career_url": "https://www.wealthfront.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/wealthfront",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Betterment",
+        "career_url": "https://www.betterment.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/betterment",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Affirm",
+        "career_url": "https://www.affirm.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/affirm",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Klarna",
+        "career_url": "https://www.klarna.com/international/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/klarna",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Afterpay",
+        "career_url": "https://www.afterpay.com/en-US/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/afterpay",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Sezzle",
+        "career_url": "https://sezzle.com/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/sezzle",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Zip",
+        "career_url": "https://zip.co/us/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/zip",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Chime",
+        "career_url": "https://www.chime.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/chime",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Varo",
+        "career_url": "https://www.varomoney.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/varo",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "N26",
+        "career_url": "https://n26.com/en-eu/careers",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/n26",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Monzo",
+        "career_url": "https://monzo.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/monzo",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    },
+    {
+        "name": "Starling Bank",
+        "career_url": "https://www.starlingbank.com/careers/",
+        "ats": "lever",
+        "ats_url": "https://api.lever.co/v0/postings/starling",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "FinTech"
+    }
+]

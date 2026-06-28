@@ -1,0 +1,66 @@
+name: AI/ML Job Alert Pipeline
+
+on:
+  schedule:
+    # 4x daily: 00:30, 06:30, 12:30, 18:30 UTC = 06:00, 12:00, 18:00, 00:00 IST
+    - cron: '30 0,6,12,18 * * *'
+  workflow_dispatch:   # allow manual trigger from GitHub UI
+
+jobs:
+  run-job-alert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      # ── 1. Code ────────────────────────────────────────────────────────────
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Restore SQLite DB between runs ─────────────────────────────────
+      - name: Restore job database cache
+        uses: actions/cache@v4
+        with:
+          path: data/
+          # Key: restore latest DB regardless of run ID
+          key: jobs-db-v1-${{ github.ref_name }}
+          restore-keys: |
+            jobs-db-v1-
+
+      # ── 4. Create required directories (not in git) ───────────────────────
+      - name: Create runtime directories
+        run: |
+          mkdir -p data logs reports output
+
+      # ── 5. Install dependencies ───────────────────────────────────────────
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 6. Run pipeline ───────────────────────────────────────────────────
+      - name: Run Job Alert Pipeline
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTIFY_ON_EMPTY: "false"
+        run: |
+          python main.py
+
+      # ── 7. Upload reports as artifact (viewable from Actions UI) ──────────
+      - name: Upload Reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-reports-${{ github.run_number }}
+          path: |
+            reports/
+            logs/
+          retention-days: 14
+          if-no-files-found: ignore

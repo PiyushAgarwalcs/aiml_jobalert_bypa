@@ -1,0 +1,1482 @@
+[
+    {
+        "name": "SimplifyJobs New Grad",
+        "career_url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+        "ats": "github",
+        "ats_url": "SimplifyJobs/New-Grad-Positions",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "SimplifyJobs Internships",
+        "career_url": "https://github.com/SimplifyJobs/Summer2025-Internships",
+        "ats": "github",
+        "ats_url": "SimplifyJobs/Summer2025-Internships",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "Awesome AI Jobs",
+        "career_url": "https://github.com/aifoundry-org/awesome-ai-jobs",
+        "ats": "github",
+        "ats_url": "aifoundry-org/awesome-ai-jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "Airbnb",
+        "career_url": "https://careers.airbnb.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Dropbox",
+        "career_url": "https://jobs.dropbox.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Pinterest",
+        "career_url": "https://www.pinterestcareers.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Twilio",
+        "career_url": "https://www.twilio.com/company/jobs",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Reddit",
+        "career_url": "https://www.redditinc.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Airtable",
+        "career_url": "https://airtable.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Asana",
+        "career_url": "https://asana.com/jobs",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "GitLab",
+        "career_url": "https://about.gitlab.com/jobs/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "GitHub",
+        "career_url": "https://github.com/about/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Atlassian",
+        "career_url": "https://www.atlassian.com/company/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Ramp",
+        "career_url": "https://ramp.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "LinkedIn Software Engineering",
+        "career_url": "https://www.linkedin.com/jobs/search?keywords=Software%20Engineer&location=Bangalore%20Urban%2C%20Karnataka%2C%20India&geoId=105214831&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&f_TPR=r86400&f_E=1%2C2",
+        "ats": "linkedin",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "LinkedIn AI/ML",
+        "career_url": "https://www.linkedin.com/jobs/search?keywords=Machine%20Learning%20Engineer&location=Bangalore&f_TPR=r86400&f_E=1%2C2",
+        "ats": "linkedin",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "LinkedIn Entry Level",
+        "career_url": "https://www.linkedin.com/jobs/search?keywords=Backend%20Engineer&location=Bangalore&f_TPR=r86400&f_E=1%2C2",
+        "ats": "linkedin",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Aggregator"
+    },
+    {
+        "name": "Google",
+        "career_url": "https://careers.google.com/jobs/results/?location=Bangalore",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Big Tech"
+    },
+    {
+        "name": "Microsoft",
+        "career_url": "https://careers.microsoft.com/v2/global/en/home.html",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Big Tech"
+    },
+    {
+        "name": "Apple",
+        "career_url": "https://jobs.apple.com/en-in/search?location=bangalore-BGLR",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Big Tech"
+    },
+    {
+        "name": "Netflix",
+        "career_url": "https://jobs.netflix.com/search?location=Mumbai%2C%20India",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Big Tech"
+    },
+    {
+        "name": "Flipkart",
+        "career_url": "https://www.flipkartcareers.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "PhonePe",
+        "career_url": "https://www.phonepe.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Groww",
+        "career_url": "https://groww.in/about-us/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Zepto",
+        "career_url": "https://www.zeptonow.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Swiggy",
+        "career_url": "https://careers.swiggy.com/#/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Zomato",
+        "career_url": "https://www.zomato.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Meta",
+        "career_url": "https://www.metacareers.com/jobs",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Big Tech"
+    },
+    {
+        "name": "IBM",
+        "career_url": "https://careers.ibm.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Cisco",
+        "career_url": "https://jobs.cisco.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Salesforce",
+        "career_url": "https://careers.salesforce.com/en/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "SAP",
+        "career_url": "https://jobs.sap.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "ServiceNow",
+        "career_url": "https://careers.servicenow.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Snowflake",
+        "career_url": "https://careers.snowflake.com/us/en",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Databricks",
+        "career_url": "https://www.databricks.com/company/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Cloudflare",
+        "career_url": "https://www.cloudflare.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Elastic",
+        "career_url": "https://www.elastic.co/about/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "MongoDB",
+        "career_url": "https://www.mongodb.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Confluent",
+        "career_url": "https://www.confluent.io/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "DigitalOcean",
+        "career_url": "https://www.digitalocean.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "PayPal",
+        "career_url": "https://careers.paypal.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Block",
+        "career_url": "https://block.xyz/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Coinbase",
+        "career_url": "https://www.coinbase.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "VMware",
+        "career_url": "https://careers.vmware.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Synopsys",
+        "career_url": "https://www.synopsys.com/careers.html",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "AMD",
+        "career_url": "https://careers.amd.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "Broadcom",
+        "career_url": "https://careers.broadcom.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Semiconductor"
+    },
+    {
+        "name": "HP",
+        "career_url": "https://jobs.hp.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Lenovo",
+        "career_url": "https://jobs.lenovo.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Ericsson",
+        "career_url": "https://www.ericsson.com/en/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Siemens",
+        "career_url": "https://jobs.siemens.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Honeywell",
+        "career_url": "https://careers.honeywell.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Enterprise Software"
+    },
+    {
+        "name": "Tesla",
+        "career_url": "https://www.tesla.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Hardware"
+    },
+    {
+        "name": "SpaceX",
+        "career_url": "https://www.spacex.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Hardware"
+    },
+    {
+        "name": "Uber",
+        "career_url": "https://www.uber.com/us/en/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Lyft",
+        "career_url": "https://www.lyft.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Booking.com",
+        "career_url": "https://careers.booking.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Expedia",
+        "career_url": "https://careers.expediagroup.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Wise",
+        "career_url": "https://wise.jobs/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Revolut",
+        "career_url": "https://www.revolut.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Adyen",
+        "career_url": "https://careers.adyen.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "DocuSign",
+        "career_url": "https://careers.docusign.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "PagerDuty",
+        "career_url": "https://www.pagerduty.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Grafana Labs",
+        "career_url": "https://grafana.com/about/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Datadog",
+        "career_url": "https://careers.datadoghq.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "New Relic",
+        "career_url": "https://newrelic.com/about/culture/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Splunk",
+        "career_url": "https://www.splunk.com/en_us/careers.html",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Myntra",
+        "career_url": "https://careers.myntra.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "ShareChat",
+        "career_url": "https://sharechat.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Dream11",
+        "career_url": "https://about.dream11.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "InMobi",
+        "career_url": "https://www.inmobi.com/company/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Slice",
+        "career_url": "https://sliceit.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Juspay",
+        "career_url": "https://juspay.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Pine Labs",
+        "career_url": "https://www.pinelabs.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Navi",
+        "career_url": "https://navi.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Upstox",
+        "career_url": "https://upstox.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Delhivery",
+        "career_url": "https://www.delhivery.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Urban Company",
+        "career_url": "https://careers.urbancompany.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Cars24",
+        "career_url": "https://www.cars24.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "NoBroker",
+        "career_url": "https://www.nobroker.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "PolicyBazaar",
+        "career_url": "https://www.policybazaar.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Paytm",
+        "career_url": "https://paytm.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "BookMyShow",
+        "career_url": "https://in.bookmyshow.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Practo",
+        "career_url": "https://www.practo.com/company/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Porter",
+        "career_url": "https://porter.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Apna",
+        "career_url": "https://apna.co/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "PhysicsWallah",
+        "career_url": "https://www.pw.live/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Pocket FM",
+        "career_url": "https://www.pocketfm.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Acko",
+        "career_url": "https://www.acko.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "BlackBuck",
+        "career_url": "https://www.blackbuck.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Licious",
+        "career_url": "https://www.licious.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Wakefit",
+        "career_url": "https://wakefit.co/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Livspace",
+        "career_url": "https://www.livspace.com/in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Darwinbox",
+        "career_url": "https://darwinbox.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Unacademy",
+        "career_url": "https://unacademy.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Vedantu",
+        "career_url": "https://www.vedantu.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Udaan",
+        "career_url": "https://udaan.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "OfBusiness",
+        "career_url": "https://www.ofbusiness.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Nykaa",
+        "career_url": "https://www.nykaa.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "MPL",
+        "career_url": "https://www.mpl.live/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Freecharge",
+        "career_url": "https://www.freecharge.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Gupshup",
+        "career_url": "https://www.gupshup.io/company/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Fi Money",
+        "career_url": "https://fi.money/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Jupiter",
+        "career_url": "https://jupiter.money/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Zerodha",
+        "career_url": "https://zerodha.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Cashfree",
+        "career_url": "https://www.cashfree.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Perfios",
+        "career_url": "https://www.perfios.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Whatfix",
+        "career_url": "https://whatfix.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "HighLevel",
+        "career_url": "https://www.gohighlevel.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "MoEngage",
+        "career_url": "https://www.moengage.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Capillary Technologies",
+        "career_url": "https://www.capillarytech.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Uniphore",
+        "career_url": "https://www.uniphore.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Bizongo",
+        "career_url": "https://www.bizongo.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Innovaccer",
+        "career_url": "https://innovaccer.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "ElasticRun",
+        "career_url": "https://www.elastic.run/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Yubi",
+        "career_url": "https://www.go-yubi.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Open Financial Technologies",
+        "career_url": "https://open.money/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Hasura",
+        "career_url": "https://hasura.io/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "PayU",
+        "career_url": "https://corporate.payu.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "BillDesk",
+        "career_url": "https://www.billdesk.com/web/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Khatabook",
+        "career_url": "https://khatabook.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Lendingkart",
+        "career_url": "https://www.lendingkart.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "MobiKwik",
+        "career_url": "https://www.mobikwik.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "ZestMoney",
+        "career_url": "https://www.zestmoney.in/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Pristyn Care",
+        "career_url": "https://www.pristyncare.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "PharmEasy",
+        "career_url": "https://pharmeasy.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Tata 1mg",
+        "career_url": "https://www.1mg.com/jobs",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "HealthifyMe",
+        "career_url": "https://www.healthifyme.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Cure.fit",
+        "career_url": "https://www.cult.fit/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Blinkit",
+        "career_url": "https://blinkit.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Dunzo",
+        "career_url": "https://www.dunzo.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Ola",
+        "career_url": "https://www.olaelectric.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Rapido",
+        "career_url": "https://rapido.bike/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Bounce",
+        "career_url": "https://bounceinfinity.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Spinny",
+        "career_url": "https://www.spinny.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "CarDekho",
+        "career_url": "https://www.cardekho.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Dailyhunt",
+        "career_url": "https://www.dailyhunt.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Inshorts",
+        "career_url": "https://inshorts.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Kuku FM",
+        "career_url": "https://kukufm.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "MakeMyTrip",
+        "career_url": "https://careers.makemytrip.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "GoIbibo",
+        "career_url": "https://careers.goibibo.com/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "Clear",
+        "career_url": "https://cleartax.in/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Zenoti",
+        "career_url": "https://www.zenoti.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Mindtickle",
+        "career_url": "https://www.mindtickle.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "CleverTap",
+        "career_url": "https://clevertap.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "LeadSquared",
+        "career_url": "https://www.leadsquared.com/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Amagi",
+        "career_url": "https://www.amagi.com/careers",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Postman India",
+        "career_url": "https://www.postman.com/company/careers/",
+        "ats": "custom",
+        "ats_url": "",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    }
+]

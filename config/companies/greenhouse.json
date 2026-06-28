@@ -1,0 +1,622 @@
+[
+    {
+        "name": "OpenAI",
+        "career_url": "https://openai.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/openai/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Anthropic",
+        "career_url": "https://www.anthropic.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Scale AI",
+        "career_url": "https://scale.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Cohere",
+        "career_url": "https://cohere.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/cohere/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Hugging Face",
+        "career_url": "https://huggingface.co/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/huggingface/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Discord",
+        "career_url": "https://discord.com/jobs",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/discord/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "Figma",
+        "career_url": "https://www.figma.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/figma/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Canva",
+        "career_url": "https://www.canva.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/canva/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Pinecone",
+        "career_url": "https://www.pinecone.io/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/pinecone/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Modal",
+        "career_url": "https://modal.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/modal/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Replicate",
+        "career_url": "https://replicate.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/replicate/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Harvey",
+        "career_url": "https://www.harvey.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/harvey/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Cursor",
+        "career_url": "https://www.cursor.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/cursor/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Writer",
+        "career_url": "https://writer.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/writer/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Glean",
+        "career_url": "https://www.glean.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/glean/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Supabase",
+        "career_url": "https://supabase.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/supabase/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "PlanetScale",
+        "career_url": "https://planetscale.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/planetscale/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Vercel",
+        "career_url": "https://vercel.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/vercel/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Razorpay",
+        "career_url": "https://razorpay.com/jobs/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/razorpay/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "CRED",
+        "career_url": "https://cred.club/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/cred/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Meesho",
+        "career_url": "https://www.meesho.io/jobs",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/meesho/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Indian Product"
+    },
+    {
+        "name": "CoinDCX",
+        "career_url": "https://coindcx.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/coindcx/jobs",
+        "priority": true,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "Okta",
+        "career_url": "https://www.okta.com/company/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/okta/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Weights & Biases",
+        "career_url": "https://wandb.ai/about/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/weightsandbalances/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Character.AI",
+        "career_url": "https://character.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/characterai/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Adept AI",
+        "career_url": "https://www.adept.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/adept/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Deepgram",
+        "career_url": "https://deepgram.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/deepgram/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Luma AI",
+        "career_url": "https://lumalabs.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/lumaai/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Stability AI",
+        "career_url": "https://stability.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Abacus AI",
+        "career_url": "https://abacus.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/abacusai/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Landing AI",
+        "career_url": "https://landing.ai/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/landingai/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "AI Startup"
+    },
+    {
+        "name": "Zendesk",
+        "career_url": "https://jobs.zendesk.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/zendesk/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Calendly",
+        "career_url": "https://calendly.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/calendly/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Box",
+        "career_url": "https://careers.box.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/box/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Segment",
+        "career_url": "https://segment.com/jobs/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/segment/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Render",
+        "career_url": "https://render.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/render/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Netlify",
+        "career_url": "https://www.netlify.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/netlify/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Cockroach Labs",
+        "career_url": "https://www.cockroachlabs.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/cockroachlabs/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "SingleStore",
+        "career_url": "https://www.singlestore.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/singlestore/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Yugabyte",
+        "career_url": "https://www.yugabyte.com/about/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/yugabyte/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Angel One",
+        "career_url": "https://careers.angelone.in/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/angelone/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "FinTech"
+    },
+    {
+        "name": "CrowdStrike",
+        "career_url": "https://www.crowdstrike.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Rapid7",
+        "career_url": "https://www.rapid7.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/rapid7/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Zscaler",
+        "career_url": "https://www.zscaler.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Tenable",
+        "career_url": "https://careers.tenable.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/tenable/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Cyber Security"
+    },
+    {
+        "name": "Zoom",
+        "career_url": "https://careers.zoom.us/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/zoom/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "SaaS"
+    },
+    {
+        "name": "Patreon",
+        "career_url": "https://www.patreon.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/patreon/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "Grammarly",
+        "career_url": "https://www.grammarly.com/jobs",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/grammarly/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Tinder",
+        "career_url": "https://www.tinder.com/jobs",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/tinder/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "Bumble",
+        "career_url": "https://bumble.com/jobs",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/bumble/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "Wayfair",
+        "career_url": "https://www.wayfair.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/wayfair/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Chegg",
+        "career_url": "https://jobs.chegg.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/chegg/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": true,
+        "category": "Consumer"
+    },
+    {
+        "name": "Coursera",
+        "career_url": "https://about.coursera.org/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/coursera/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Duolingo",
+        "career_url": "https://careers.duolingo.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/duolingo/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "MasterClass",
+        "career_url": "https://careers.masterclass.com/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/masterclass/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "Consumer"
+    },
+    {
+        "name": "Udemy",
+        "career_url": "https://about.udemy.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/udemy/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Guild Education",
+        "career_url": "https://www.guildeducation.com/careers/",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/guildeducation/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Webflow",
+        "career_url": "https://webflow.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/webflow/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Mural",
+        "career_url": "https://www.mural.co/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/mural/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Lucid",
+        "career_url": "https://lucid.co/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/lucid/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Smartsheet",
+        "career_url": "https://www.smartsheet.com/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/smartsheet/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    },
+    {
+        "name": "Bitbucket",
+        "career_url": "https://www.atlassian.com/company/careers",
+        "ats": "greenhouse",
+        "ats_url": "https://boards-api.greenhouse.io/v1/boards/bitbucket/jobs",
+        "priority": false,
+        "enabled": true,
+        "bangalore": false,
+        "category": "SaaS"
+    }
+]
